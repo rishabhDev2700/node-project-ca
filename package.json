@@ -1,0 +1,14 @@
+{
+  "name": "node-project-ca",
+  "version": "1.0.0",
+  "description": "video chat application",
+  "main": "index.js",
+  "repository": "https://github.com/rishabhDev2700/node-project-ca",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1",
+    "uuid": "^9.0.0"
+  }
+}
